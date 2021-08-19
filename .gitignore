@@ -135,6 +135,8 @@ dmypy.json
 !Data/GoodReads/books-small.csv
 !Data/GoodReads/book_tags-small.csv
 !Data/GoodReads/tags.csv
+!Data/GOodReads/books.csv
+!Data/GoodREads/booktags.csv
 
 
 .vim
