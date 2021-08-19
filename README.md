@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
 -Santiago Ayala - s.ayalac@uniandes.edu.co - 202110734
--Nicolas Rivera - 
+-Nicolas Rivera - ny.rivera@uniandes.edu.co - 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
